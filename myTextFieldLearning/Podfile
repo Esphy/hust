@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target 'myTextFieldLearning' do
+pod 'FLAnimatedImage', '~> 1.0'
+end
